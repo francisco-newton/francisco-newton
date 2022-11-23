@@ -11,7 +11,8 @@
     <h3> Instituto Bairral de Psquiatria </h3>
     <h3> Atividades: </h3>
     <ul>
-        <li>Desenvolvimento de módulos para a Intranet do instituto</li>
+        <li>Desenvolvimento de módulos para a Intranet do instituto </li>
+        <li>Desenvolvimento de projetos em Javascript, PHP e SQL (Bancos Relacionais)</li>
         <li>Manutenção de computadores</li>
         <li>Suporte a usuários</li>
     </ul>
@@ -29,3 +30,11 @@
   <img align="center" alt="Newt-css" height="40px" width="40px" src="https://img.icons8.com/color/344/css3.png"> 
   <img align="center" alt="Newt-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
 </div>
+
+ #
+    
+<div>
+<a target="_blank" href="https://www.linkedin.com/in/francisco-silva-627b591a1/">
+            <img src="https://img.icons8.com/external-those-icons-flat-those-icons/24/null/external-LinkedIn-Logo-social-media-those-icons-flat-those-icons.png"/>
+</a>
+    </div>
