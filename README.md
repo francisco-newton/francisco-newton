@@ -6,6 +6,18 @@
 - 👨‍🎓 Cursando Engenharia da computação na FHO...
 
 <div>
+    <h1> Experiência Profissional </h1>
+    <h3> Estagiário de TI </h3>
+    <h3> Instituto Bairral de Psquiatria </h3>
+    <h3> Atividades: </h3>
+    <ul>
+        <li>Desenvolvimento de módulos para a Intranet do instituto</li>
+        <li>Manutenção de computadores</li>
+        <li>Suporte a usuários</li>
+    </ul>
+</div>
+
+<div>
   <a href="https://beacons.ai/francisco-newton">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=francisco-newton&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-newton&layout=compact&langs_count=16&theme=codeSTACKr"/>
