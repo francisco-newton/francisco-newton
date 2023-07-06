@@ -7,6 +7,13 @@
 
 <div>
     <h1> Experiência Profissional </h1>
+    <h3> Programador de Sistemas de Informação </h3>
+    <h3> Canto Porto </h3>
+    <h3> Atividades: </h3>
+    <ul>
+        <li>Testes nas aplicações </li>
+        <li>Desenvolvimento de documentação </li>
+    </ul>
     <h3> Estagiário de TI </h3>
     <h3> Instituto Bairral de Psquiatria </h3>
     <h3> Atividades: </h3>
